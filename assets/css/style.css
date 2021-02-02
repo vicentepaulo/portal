@@ -1,0 +1,16 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+.bordaCabecalho{
+    background: #BA0C2E;
+    padding: 6px;
+}
+
+.logo{
+    width: 150px;
+    float: right;
+    position:relative;
+    top: -6px;
+    left: 0px;
+}
