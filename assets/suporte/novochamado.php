@@ -29,9 +29,11 @@
                 </li>       
                 <li><a href="#">Chamados</a>            
                     <ul class="submenu-2">
+
                         <!-- Esse é o 3 nivel ou o Segundo Drop Down -->       
-                        <li><a href="assets/suporte/novochamado.php">Novo Chamado</a></li>       
-                        <li><a href="assets/suporte/">Meus Chamados</a></li>       
+                        <li><a href="#">Novo Chamado</a></li>       
+                        <li><a href="#">Meus Chamados</a></li>       
+                        <li><a href="#"></a>                       
                             <!--<ul class="submenu-3">
 
                                 <li><a href="#">7</a>
