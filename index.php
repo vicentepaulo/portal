@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="assets/css/reset.css">
     <link href="assets/css/normalize.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/cabecalho.css">
     <link rel="stylesheet" href="assets/css/menuDeNavegacao.css">
     <link rel="stylesheet" href="assets/css/menuBurger.css">
 
@@ -32,7 +32,6 @@
                             <li><a href="assets/suporte/novochamado.php">Novo Chamado</a></li>       
                             <li><a href="assets/suporte/meuschamados.php">Meus Chamados</a></li>       
                             <!--<ul class="submenu-3">
-
                                 <li><a href="#">7</a>
                                 </li>
                                 <li><a href="#">8</a></li>
