@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="./css/reset.css">
     <link href="./css/normalize.css">
-    <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./css/menuDeNavegacao.css">
-    <link rel="stylesheet" href="./css/menuBurger.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/menuDeNavegacao.css">
+    <link rel="stylesheet" href="assets/css/menuBurger.css">
 
 
     <title>index</title>
@@ -19,7 +19,7 @@
       
     <ul class="menu">
         <!-- Esse é o 1 nivel ou o nivel principal -->
-        <li><a href="#"><img id="menuBurguer" alt="Logotipo Inovamed" src="./img/icon/iconeMenuBurgerBranco.png"></a> 
+        <li><a href="#"><img id="menuBurguer" alt="Logotipo Inovamed" src="assets/img/icon/iconeMenuBurgerBranco.png"></a> 
             <ul class="submenu-1">
 
                 <!-- Esse é o 2 nivel ou o primeiro Drop Down --> 
@@ -46,7 +46,7 @@
         </li>       
     </ul> 
     </div>
-    <img class="logo" alt="Logotipo Inovamed" src="./img/logo/logoPositiva.png">
+    <img class="logo" alt="Logotipo Inovamed" src="assets/img/logo/logoPositiva.png">
     <div class="bordaDireita"></div>
 </body>
 
