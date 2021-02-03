@@ -92,7 +92,7 @@
 
  
 
-    /*nivel 2*/
+    /*nivel 2 COR PRIMARIA*/
     .submenu-1 {
         background:#BA0C2E;
     }
@@ -107,7 +107,7 @@
 
     /*nivel 3*/
     .submenu-2 {
-        background:#BA0C2E;
+        background:#DB2A4D;
     }
 
     .submenu-2 a {
@@ -115,7 +115,7 @@
     }
 
     .submenu-2 li:hover>a {
-        background:#DB2A4D;
+        background:#EA5572;
     }
 
     .submenu-3 a {
